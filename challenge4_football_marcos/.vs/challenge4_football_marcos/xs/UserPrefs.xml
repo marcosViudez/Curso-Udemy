@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7881663A-EE60-5A68-105F-850B1589860D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 4/Scripts/PlayerControllerX.cs">
+    <Files>
+      <File FileName="Assets/Challenge 4/Scripts/PlayerControllerX.cs" Line="58" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="challenge4_football_marcos" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Challenge 4" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="PlayerControllerX.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6b39554b-f5c8-462c-8256-b6f96576929a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
